@@ -1,8 +1,8 @@
 let a = 0;
-let b = false;
+let b = true;
 
 if (b) {
-    a = 1;
+    a = 2;
 }
 
 console.log('a:', a);
