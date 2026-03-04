@@ -1,5 +1,5 @@
 let a = 0;
-let b = true;
+let b = false;
 
 if (b) {
     a = 1;
